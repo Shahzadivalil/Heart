@@ -11,10 +11,15 @@ It is well known that the libraries available in Python for data loading, manage
 
  Best Machine learning approaches for Heart disease prediction are:
     1.Logistic Regression
+   
     2.Random Forest
+   
     3.Decision Tree
+   
     4.K-Nearest Neighbours
+   
     5.Support Vector Machine
+    
     6.ADAboost classifier
 
 By performing this 6 techniques we will choose the best model for predict Heart Disease.
